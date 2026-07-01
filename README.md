@@ -1,4 +1,4 @@
-# movie_recommendation_system
+# movie_recommender
 ## Overview
 A recommendation system that suggests movies based on user ratings and genre similarity using collaborative filtering.
 
